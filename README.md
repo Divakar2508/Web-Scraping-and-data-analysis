@@ -3,7 +3,7 @@ In the above projects
 
 # Webscraping and analysis of mobile price and review on amazon
 
-Done web-scraping using a AutoScraper library from Amazon shopping Website
+Done web-scraping using a library called AutoScraper, from Amazon shopping Website
 
 scraped the sales data of mobile phones from amazon
 
@@ -13,7 +13,7 @@ Analyzed the dataset and plotted insights in the form of visualizations using py
 
 # Webscraping and analysis of IMDB data
 
-Done web-scraping using a AutoScraper library from IMDB Website
+Done web-scraping using a library called AutoScraper, from IMDB Website
 
 scraped the data of movies from amazon ,information like movie name,director,genre,rating and movie gross 
 
